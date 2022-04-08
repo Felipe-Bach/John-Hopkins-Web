@@ -1,2 +1,3 @@
-# Coursera-Test
-Coursera test repository
+# Joh Hopkins University HTML, CSS and JavaScript Course
+
+
